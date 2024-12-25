@@ -5,7 +5,7 @@ import numpy as np
 print("Seja bem-vindo ao nosso sistema de avaliação de atendimento do nosso supermercado!")
 
 # Tempo passado nas filas de atendimento
-# Função para coletar informações do aluno
+# Função para coletar informações do cliente
 
 def coletar_informacoes(): 
     dados_historicos = {}
