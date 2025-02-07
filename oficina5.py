@@ -60,8 +60,7 @@ if resposta.lower == "Sim":
 else: 
    sugestao = input("Obrigado por utilizar nossos serviços! Alguma sugestão? ") 
    print(f"Obrigado pela sua sugestão: {sugestao}")
-
-print("Obrigado pela sua resposta!")
+
 
 # Respostas dos clientes sobre a nova politica
 str(input("Você gostou da nossa nova politica de atendimento?"'Sim ou Não'))
